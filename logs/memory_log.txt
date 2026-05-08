@@ -1,0 +1,2 @@
+[08:49:59] ADMITTED | Free:29 | Largest:29 | Frag:0.0%
+[08:50:20] BED_FREED | Free:32 | Largest:32 | Frag:0.0%

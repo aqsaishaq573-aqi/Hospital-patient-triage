@@ -1,0 +1,1 @@
+ADMIT | P1 Alice           | Priority:1 | Bed:0(ICU) | Time:1777985399
