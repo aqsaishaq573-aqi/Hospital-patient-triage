@@ -29,15 +29,18 @@ and manages memory using Best-Fit allocation.
 - Fragmentation reporting
 
 ## Project Structure
+
 hospital_project/
 ├── src/
 │   ├── admissions.c        ← Main process
 │   ├── patient_simulator.c ← Child process
 │   └── hospital.h          ← Shared structs
+
 ├── scripts/
 │   ├── triage.sh           ← Patient admission
 │   ├── start_hospital.sh   ← System startup
 │   └── stop_hospital.sh    ← Clean shutdown
+
 ├── logs/
 │   ├── schedule_log.txt    ← Scheduling output
 │   └── memory_log.txt      ← Fragmentation log
